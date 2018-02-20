@@ -1,4 +1,0 @@
-﻿stage : utilisateur, entreprise, personne_contact, date_signature, adresse
-utilisateur : pseudo, nom, prénom, date_naissance, tel, email, date_inscription, annee_academique, role (prof, etudiant)
-entreprise : denomination, adresse, tel, email
-personne_contact : entreprise, email, tel, nom, prenom
